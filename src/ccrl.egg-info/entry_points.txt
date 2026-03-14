@@ -1,0 +1,2 @@
+[console_scripts]
+ccrl = ccrl.cli:main
