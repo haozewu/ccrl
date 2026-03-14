@@ -1,4 +1,6 @@
-# ccrl
+# Continual contrastive reinforcement learning (CCRL)
+
+Towards a stronger, environment-aware agent for commercial aero-engine fault diagnosis through long-term optimization under highly imbalanced scenarios.
 
 English | [中文说明](./README.zh-CN.md)
 
