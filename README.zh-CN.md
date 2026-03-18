@@ -6,13 +6,16 @@
 
 `ccrl` 是对以下论文方法的 Python 包实现：
 
-Haoze Wu, Shisheng Zhong, Minghang Zhao, Xuyun Fu, Yongjian Zhang, Song Fu, "Continual contrastive reinforcement learning: Towards stronger agent for environment-aware fault diagnosis of aero-engines through long-term optimization under highly imbalance scenarios", *Advanced Engineering Informatics*, DOI: `10.1016/j.aei.2025.103297`。
+> Wu, H., Zhong, S., Zhao, M., Fu, X., Zhang, Y., and Fu, S. Continual contrastive reinforcement learning: Towards stronger agent for environment-aware fault diagnosis of aero-engines through long-term optimization under highly imbalance scenarios. *Advanced Engineering Informatics*, 65, 103297 (2025). https://doi.org/10.1016/j.aei.2025.103297
 
-- 仓库地址：`https://github.com/haozewu/ccrl`
-- PyPI：`https://pypi.org/project/ccrl/0.1.0/`
-- 论文 DOI：`10.1016/j.aei.2025.103297`
+## 论文与项目链接
 
-`ccrl` 已发布到 PyPI：`https://pypi.org/project/ccrl/0.1.0/`，这个仓库包含它的源码和说明文档。
+- 论文题目：*Continual contrastive reinforcement learning: Towards stronger agent for environment-aware fault diagnosis of aero-engines through long-term optimization under highly imbalance scenarios*
+- 论文 DOI：[https://doi.org/10.1016/j.aei.2025.103297](https://doi.org/10.1016/j.aei.2025.103297)
+- 仓库地址：[https://github.com/haozewu/ccrl](https://github.com/haozewu/ccrl)
+- PyPI：[https://pypi.org/project/ccrl/](https://pypi.org/project/ccrl/)
+
+`ccrl` 已发布到 PyPI，这个仓库包含其源码和说明文档。
 
 当前实现覆盖的 CCRL 核心流程包括：
 

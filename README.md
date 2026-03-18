@@ -4,15 +4,18 @@ Towards a stronger, environment-aware agent for commercial aero-engine fault dia
 
 English | [中文说明](./README.zh-CN.md)
 
-`ccrl` is a Python package implementing the method described in the paper:
+`ccrl` is a Python package implementing the method described in the following paper:
 
-Haoze Wu, Shisheng Zhong, Minghang Zhao, Xuyun Fu, Yongjian Zhang, Song Fu, "Continual contrastive reinforcement learning: Towards stronger agent for environment-aware fault diagnosis of aero-engines through long-term optimization under highly imbalance scenarios", *Advanced Engineering Informatics*, DOI: `10.1016/j.aei.2025.103297`.
+> Wu, H., Zhong, S., Zhao, M., Fu, X., Zhang, Y., and Fu, S. Continual contrastive reinforcement learning: Towards stronger agent for environment-aware fault diagnosis of aero-engines through long-term optimization under highly imbalance scenarios. *Advanced Engineering Informatics*, 65, 103297 (2025). https://doi.org/10.1016/j.aei.2025.103297
 
-- Repository: `https://github.com/haozewu/ccrl`
-- PyPI: `https://pypi.org/project/ccrl/0.1.0/`
-- Paper DOI: `10.1016/j.aei.2025.103297`
+## Paper and Project Links
 
-The package is published as `ccrl` on PyPI at `https://pypi.org/project/ccrl/0.1.0/`. This repository contains its source code and documentation.
+- Paper: *Continual contrastive reinforcement learning: Towards stronger agent for environment-aware fault diagnosis of aero-engines through long-term optimization under highly imbalance scenarios*
+- DOI: [https://doi.org/10.1016/j.aei.2025.103297](https://doi.org/10.1016/j.aei.2025.103297)
+- Repository: [https://github.com/haozewu/ccrl](https://github.com/haozewu/ccrl)
+- PyPI: [https://pypi.org/project/ccrl/](https://pypi.org/project/ccrl/)
+
+The package is published on PyPI as `ccrl`. This repository contains its source code and documentation.
 
 The CCRL pipeline implemented here includes:
 
